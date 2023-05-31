@@ -2,7 +2,7 @@
 
 <br>
 - 👋 Hi, my name is Igor, being a great guy since 2003!<br>
-- 👨🏽‍💻 I'm studying in the Apple Developer Academy. <br>
+- 👨🏽‍💻 I'm working in Apple Developer Academy | Mackenzie. <br>
 - 📚 I'm currently learning SwiftUI.<br>
 - ⚛️ I wish to learn React and React-Native.<br><br>
 
