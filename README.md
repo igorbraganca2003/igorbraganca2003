@@ -11,7 +11,7 @@
 <div style="display: inline_block">
   <a href="https://beacons.ai/igorbraganca2003">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=igorbraganca2003&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/igorbraganca2003/github-readme-stats#gh-light-mode-only">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorbraganca2003&layout=compact)](https://github.com/igorbraganca2003/github-readme-stats">
+<!--   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorbraganca2003&layout=compact)](https://github.com/igorbraganca2003/github-readme-stats"> -->
 </div><br><br>
           
 <div style="display: inline_block">
