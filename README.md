@@ -1,9 +1,9 @@
 # Olá, me chamo Igor!
 
 <br>
-- 👋 Hi, my name is Igor, being a great guy since 2003!<br>
-- 👨🏽‍💻 I'm working in Apple Developer Academy | Mackenzie. <br>
-- 📚 I'm currently learning SwiftUI.<br>
+- 👋 Hi, my name is Igor, being a nice guy since 2003!<br>
+- 👨🏽‍💻 I'm working in as Software Developer at Mercado-Livre <br>
+- 📚 I'm currently working with Java<br>
 - ⚛️ I wish to learn React and React-Native.<br><br>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
