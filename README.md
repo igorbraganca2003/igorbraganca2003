@@ -2,7 +2,7 @@
 
 <br>
 - 👋 Hi, my name is Igor, being a nice guy since 2003!<br>
-- 👨🏽‍💻 I'm working in as Software Developer at Mercado-Livre <br>
+- 👨🏽‍💻 I'm working as Software Developer at Mercado-Livre <br>
 - 📚 I'm currently working with Java<br>
 - ⚛️ I wish to learn React and React-Native.<br><br>
 
